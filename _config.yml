@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "GENE"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Deep daiv. '24su Audio Challenge(7.30.~10.5.) WIL"
+  name             : "Jaeyong Lee"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Deep daiv. '24su Audio Challenge WIL"
   location         : "Seoul, Korea"
   email            : "eugssmixx@gmail.com"
   links:
@@ -133,9 +133,11 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/gene-the-genuine"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/_eugssmixx"
       # url: "https://instagram.com/"
 
 # Site Footer
